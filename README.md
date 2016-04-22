@@ -1,5 +1,7 @@
 # :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
 
+这个网站应该有个中文的。。。
+
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
